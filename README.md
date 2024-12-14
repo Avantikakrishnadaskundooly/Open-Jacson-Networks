@@ -20,7 +20,6 @@ Visual components and Python
 
 ![277123017-ab09dd11-9276-4ef8-903a-7e27eb759f20](https://github.com/PriyankaAnnadurai/Open-Jacson-Networks/assets/118351569/c046f7ce-38a1-476f-b832-6d536213d4e5)
 
-![277123025-d3b25f72-b148-49d8-8882-b499a602aa31](https://github.com/PriyankaAnnadurai/Open-Jacson-Networks/assets/118351569/a133f449-0960-4856-9cb2-c64576c7e6b8)
 
 ## Program
 ```py
